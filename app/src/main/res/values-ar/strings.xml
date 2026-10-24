@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WamdX AI Studio</string>
+    <string name="cd_open_drawer">فتح القائمة الجانبية</string>
+    <string name="cd_new_chat">بدء محادثة جديدة</string>
+    <string name="cd_send_message">إرسال الرسالة</string>
+    <string name="cd_attach_file">إرفاق ملف أو صورة</string>
+    <string name="cd_copy_text">نسخ النص</string>
+    <string name="cd_delete_item">حذف العنصر</string>
+    <string name="cd_hero_banner">الشعار البصري لمنصة WamdX AI Studio</string>
+</resources>

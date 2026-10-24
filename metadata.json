@@ -1,0 +1,6 @@
+{
+  "name": "WamdX AI Studio",
+  "description": "Arabic-first conversational AI assistant, productivity toolkit, and interactive app & website builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

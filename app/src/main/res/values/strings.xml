@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WamdX AI Studio</string>
+    <string name="cd_open_drawer">Open navigation menu</string>
+    <string name="cd_new_chat">Start new conversation</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_attach_file">Attach file or image</string>
+    <string name="cd_copy_text">Copy text</string>
+    <string name="cd_delete_item">Delete item</string>
+    <string name="cd_hero_banner">WamdX AI Studio hero artwork</string>
+</resources>
